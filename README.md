@@ -110,5 +110,4 @@ Misclassifications in the baseline model revealed:
 ## 🏁 Conclusion
 This project successfully demonstrated the application of NLP techniques for spam detection. While Deep Learning models like LSTM offer theoretical advantages, this study proves that **Simple Neural Networks (MLP) combined with TF-IDF** provide superior performance when keyword frequency is the dominant feature and data size is limited.
 
----
-*This project was prepared within the scope of the Computer Engineering Department at Fatih Sultan Mehmet Vakıf University.*
+
